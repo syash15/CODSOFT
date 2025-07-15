@@ -1,0 +1,22 @@
+[
+    {
+        "title": "play",
+        "completed": true
+    },
+    {
+        "title": "go to school",
+        "completed": true
+    },
+    {
+        "title": "study",
+        "completed": true
+    },
+    {
+        "title": "Eat tiffin",
+        "completed": false
+    },
+    {
+        "title": "after coming back home study",
+        "completed": false
+    }
+]
